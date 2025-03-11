@@ -37,17 +37,19 @@ Interfaz de exploración de cohetes de SpaceX con datos obtenidos desde la API o
 
 📌 Instalación y Uso
 
-haga [Click Aqui: para ver mi portafolio web](https://lustrous-gecko-f73d84.netlify.app/) para acceder al host de mi portafolio o siga las siguientes instrucciones
+haga [Click Aqui: para ver mi portafolio web](https://lustrous-gecko-f73d84.netlify.app/) accederas a la pagina de mi portafolio 
 
-Clonar el repositorio
+o sigue las siguientes instrucciones
+
+1. Clonar el repositorio
 
 git clone https://github.com/DiegoAlexanderGarcia/Protafolio_Web_Garcia_Diego.git
 
-Abrir el proyecto en un navegador
+2. Abrir el proyecto en un navegador
 
-Si el proyecto usa solo HTML, CSS y JS, puedes abrir index.html directamente.
+El proyecto usa solo HTML, CSS y JS, puedes abrir index.html directamente.
 
-Si el proyecto necesita un servidor, usa Live Server en VSCode o Python para ejecutarlo:
+El proyecto necesita un servidor, usa Live Server en VSCode o Python para ejecutarlo:
 
 python -m http.server 8000
 
