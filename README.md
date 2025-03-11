@@ -37,7 +37,7 @@ Interfaz de exploración de cohetes de SpaceX con datos obtenidos desde la API o
 
 📌 Instalación y Uso
 
-haga <a href="https://lustrous-gecko-f73d84.netlify.app/">click aqui <a/> para acceder al host delportafolio o siga las siguientes instrucciones
+haga <a href="https://lustrous-gecko-f73d84.netlify.app/">click aqui <a/> para acceder al host de mi portafolio o siga las siguientes instrucciones
 
 Clonar el repositorio
 
