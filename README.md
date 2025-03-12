@@ -31,7 +31,7 @@ Consumo de la PokeAPI con un input para obtener el ID y nombre de un Pokémon, i
 
 📌 Instalación y Uso
 
-haga [Click Aqui: para ver mi portafolio web](https://mi-portafolio-web-diego.netlify.app/) accederas a la pagina de mi portafolio 
+haga [Click Aqui: para ver mi portafolio web](https://mi-portafolio-web-64rc14.netlify.app/) accederas a la pagina de mi portafolio 
 
 o sigue las siguientes instrucciones
 
