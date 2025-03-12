@@ -27,13 +27,7 @@ Sistema de gestión para farmacias con Python y JSON, que incluye administració
 
 Consumo de la PokeAPI con un input para obtener el ID y nombre de un Pokémon, incluyendo sonidos y detalles de cada criatura.
 
-🔹 SuperHeroAPI Explorer
-
-Búsqueda y visualización de héroes de la SuperHeroAPI con paginación y funcionalidad de búsqueda por ID.
-
-🔹 SpaceX Rockets
-
-Interfaz de exploración de cohetes de SpaceX con datos obtenidos desde la API oficial, mostrando información paginada y gráficos ajustados al diseño.
+🔹 
 
 📌 Instalación y Uso
 
